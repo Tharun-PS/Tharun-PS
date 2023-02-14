@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi There, I'm Tharun pursuing Data Science in VIT University. You're looking at a profile whose skills might be required for/in your company. Recruit me soon. Let's be colleagues.
+Hi There, I'm Tharun pursuing Engineering in Data Science at VIT University, Vellore. You're looking at a profile whose skills might be required for/in your company. Recruit me soon. Let's be colleagues.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Tharun#1244) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._tharun__._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-sathiyamurthy-63a2a81b0) 
