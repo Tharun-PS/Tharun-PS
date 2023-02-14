@@ -18,7 +18,7 @@ Hi There, I'm Tharun pursuing Engineering in Data Science at VIT University, Vel
 ![](https://github-trophies.vercel.app/?username=Tharun-PS&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## Microsoft Certifications
-[![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/71878525/218760984-414fb49f-957d-4f09-b03f-7e4bbf7d02b0.png)
+[![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/71878525/218761599-2a57583b-8125-4609-ad9f-7ec1085dffc5.png)
 ](https://www.credly.com/badges/21a16e27-4d70-4139-beca-7494177740f4/public_url)
 
 ### ✍️Dev Quote
