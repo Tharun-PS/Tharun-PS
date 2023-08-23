@@ -3,6 +3,7 @@ Hi There, I'm Tharun pursuing Engineering in Data Science at VIT University, Vel
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Tharun#1244) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__._tharun__._) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-sathiyamurthy-63a2a81b0)	[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/iekpukCZn7gy) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharun18052001@gmail.com)  
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tharun-sathiyamurthy-63a2a81b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tharun-sathiyamurthy-63a2a81b0?trk=profile-badge">Tharun Sathiyamurthy</a></div>
               
 
