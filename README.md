@@ -1,6 +1,7 @@
 # 💫About Me :
 Hi There, I'm Tharun, MTech Graduate in Data Science at VIT University, Vellore.   
-Currently posessing 2 years of Industry Experience @ Whirlpool Corporation Asia.
+Currently posessing 2 years of Industry Experience @ Whirlpool Corporation Asia.  
+Generative AI | Data Science | Machine Learning | NLP
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Tharun#1244) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__._tharun__._) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-sathiyamurthy-63a2a81b0)	[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/iekpukCZn7gy) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharun18052001@gmail.com)  
