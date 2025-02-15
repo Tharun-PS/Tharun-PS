@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi There, I'm Tharun, MTech Graduate in Data Science at VIT University, Vellore. 
+Hi There, I'm Tharun, MTech Graduate in Data Science at VIT University, Vellore.   
 Currently posessing 2 years of Industry Experience @ Whirlpool Corporation Asia.
 
 ## 🌐Socials
